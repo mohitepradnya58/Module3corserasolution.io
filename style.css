@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menubar-bg{
+    background-color: grey;
+}
+.color{
+    color: black;
+}
+#logo:hover{
+color: #000;
+}
+.toggle-bg{
+    border: 1px solid #311a1a;
+}
+.title-our-menu{
+    margin: 35px auto 45px;
+    text-align: center;
+}
+div.row.menu-description{
+    margin: 0 auto;
+}
+.menu-bc{
+  background-color: grey;
+  border: 1px solid black;
+  height: 100%;
+}
+.title-chicken{
+    display: block;
+    background-color: pink;
+    width: 115px;
+    float: right;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+}
+.title-Beef{
+    display: block;
+    background-color: red;
+    color: white;
+    width: 115px;
+    float: right;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+}
+.title-sushi{
+    display: block;
+    background-color: yellow;
+    width: 115px;
+    float: right;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+}
+.description{
+    margin: 33px 15px 10px 15px;
+}
+div.col-lg-4.col-md-6{
+    margin-bottom: 20px;
+}
+div.col-lg-4.col-md-12{
+    margin-bottom: 20px;
+}
